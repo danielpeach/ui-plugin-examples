@@ -5,6 +5,6 @@ plugins {
 spinnakerBundle {
   pluginId = "Armory.UIPluginStarter"
   description = "A UI plugin starter project"
-  provider = "gitub.com/danielpeach/spinnaker-ui-plugin-starter"
+  provider = "github.com/danielpeach/spinnaker-ui-plugin-starter"
   version = "0.0.1"
 }
