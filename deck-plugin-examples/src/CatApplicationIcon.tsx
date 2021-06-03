@@ -1,5 +1,4 @@
 import * as React from 'react';
-import { InstanceDetails } from '@spinnaker/core';
 
 export class CatApplicationIcon extends React.Component {
   render() {

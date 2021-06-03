@@ -3,8 +3,8 @@ plugins {
 }
 
 spinnakerBundle {
-  pluginId = "Armory.UIPluginStarter"
-  description = "A UI plugin starter project"
-  provider = "github.com/danielpeach/spinnaker-ui-plugin-starter"
+  pluginId = "Armory.UIPluginExamples"
+  description = "UI plugin examples"
+  provider = "github.com/danielpeach/ui-plugin-examples"
   version = "0.0.1"
 }

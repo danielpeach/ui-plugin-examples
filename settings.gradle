@@ -1,6 +1,6 @@
-include "spinnaker-summit-deck"
+include "deck-plugin-examples"
 
-rootProject.name = "spinnaker-summit"
+rootProject.name = "deck-plugin-examples"
 
 def setBuildFile(project) {
   project.buildFileName = "${project.name}.gradle"
